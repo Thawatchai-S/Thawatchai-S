@@ -10,11 +10,11 @@ May the bug be with you. 🦠🦠
 ![](https://img.shields.io/badge/Deploy_Server-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Thawatchaitan">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thawatchaitan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Thawatchai-S">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thawatchai-S&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://github.com/Thawatchaitan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thawatchaitan&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Thawatchai-S">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thawatchai-S&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
 
 ## Contact me
@@ -22,7 +22,7 @@ May the bug be with you. 🦠🦠
 ![](https://img.shields.io/badge/thawatchai.ez-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
 
 <!--
-**Thawatchaitan/Thawatchaitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Thawatchai-S/Thawatchai-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
